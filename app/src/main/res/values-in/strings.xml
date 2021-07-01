@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="app_name">Katalog Film</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="title_movies">Film</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="year">Year</string>
+    <string name="click_to_read_more">Klik untuk lihat selengkapnya ...</string>
+    <string name="poster_tvshow">Poster TvShow</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="movie">Film</string>
+    <string name="tvshow">Acara TV</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorite_list">Daftar Favorit</string>
+
+</resources>
